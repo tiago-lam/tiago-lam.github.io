@@ -30,17 +30,17 @@
     text-overflow: ellipsis;
 }
 
-.increase
+.spacing
 {
-
-}
-
-.increase:hover
-{
-    width: 300px;
+    margin-left: 25px;
 }
 
 .link-color
 {
     color: #e88888;
+}
+
+.imageGroup img
+{
+    float: left;
 }
